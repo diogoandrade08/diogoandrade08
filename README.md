@@ -17,4 +17,9 @@
                                  
  ##       
  
+ <div>
+ 
+   ![Snake animation](https://github.com/diogoandrade08/diogoandrade08/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
  
